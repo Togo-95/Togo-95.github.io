@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Togo-95.github.io/sitemap.xml
+Sitemap: https://togo-95.github.io/sitemap.xml
