@@ -4,22 +4,22 @@
 cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # email: tomas.gonda@uibk.ac.at # your email address
 scholar_userid: HWE8eckAAAAJ # your Google Scholar ID
-arxiv_id: gonda_t_1 
-semanticscholar_id: 102432395 # your Semantic Scholar author ID (format: 1234567)
-github_username: Togo-95 # your GitHub username
 orcid_id: 0000-0002-1531-0058 # your ORCID iD (format: 0000-0000-0000-0000)
+arxiv_id: gonda_t_1 
+github_username: Togo-95 # your GitHub username
+semanticscholar_id: 102432395 # your Semantic Scholar author ID (format: 1234567)
 dblp_url: https://dblp.org/pid/276/7573.html # your DBLP profile URL
-lastfm_id: togo95 # your Last.fm username
-strava_userid: 189381 # your Strava athlete ID (format: 12345678)
 # inspirehep_id: 1010907 # Inspire HEP author ID
 # rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: C:\Users\gonda\OneDrive\personal_website\Togo-95.github.io\assets\img\sonemic.png # can be png, svg, jpg
+# whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international
+ridewithgps: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: /assets/img/RWGPS.png # can be png, svg, jpg
+  title: RideWithGPS
+  url: https://ridewithgps.com/users/62162/
+strava_userid: 189381 # your Strava athlete ID (format: 12345678) format.)
+sonemic: # can be any name here other than the ones already defined in the jekyll-socials plugin
+  logo: /assets/img/sonemic.png # can be png, svg, jpg
   title: Sonemic
   url: https://rateyourmusic.com/~Togo
-# custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-#   logo: C:\Users\gonda\OneDrive\personal_website\Togo-95.github.io\assets\img\RWGPS.png # can be png, svg, jpg
-#   title: RideWithGPS
-#   url: https://ridewithgps.com/users/62162/
+lastfm_id: togo95 # your Last.fm username

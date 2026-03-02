@@ -1,34 +1,47 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"fritz":
+  - firstname: ["Tobias", "T.", "T"]
+    url: http://tobiasfritz.science/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"perrone":
+  - firstname: ["Paolo", "P."]
+    url: http://www.paoloperrone.org/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"stein":
+  - firstname: ["Dario", "D."]
+    url: https://dario-stein.de/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"spekkens":
+  - firstname: ["Robert", "R.", "R. W.", "Robert W."]
+    url: https://www.rwspekkens.com/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"schmid":
+  - firstname: ["David", "D."]
+    url: https://scholar.google.ca/citations?hl=en&user=Zyp4QCAAAAAJ&view_op=list_works
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"wolfe":
+  - firstname: ["Elie", "E."]
+    url: https://scholar.google.ca/citations?user=ETM3qzAAAAAJ&hl=en
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"sainz":
+  - firstname: ["Ana Belén", "A. B.", "Ana B."]
+    url: https://www.absainz.com/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"kunjwal":
+  - firstname: ["Ravi", "R."]
+    url: https://ravikunjwal.com/
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"klingler":
+  - firstname: ["Andreas", "A."]
+    url: https://www.andreas-klingler.com/
+
+"mohammed":
+  - firstname: ["Areeb", "A. S.", "AS", "Areeb S."]
+    url: https://www.areebsm.in/
+
+"galley":
+  - firstname: ["Thomas", "T. D.", "T.", "Thomas D."]
+    url: https://sites.google.com/site/thomasdgalley/home
+
+"catani":
+  - firstname: ["Lorenzo", "L."]
+    url: https://scholar.google.ca/citations?user=C3O5nMEAAAAJ&hl=en
