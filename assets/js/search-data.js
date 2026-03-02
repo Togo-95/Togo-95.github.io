@@ -423,18 +423,18 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=HWE8eckAAAAJ", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-1531-0058", "_blank");
+        },
+      },{
         id: 'social-arxiv',
         title: 'arXiv',
         section: 'Socials',
         handler: () => {
           window.open("https://arxiv.org/a/gonda_t_1.html", "_blank");
-        },
-      },{
-        id: 'social-semanticscholar',
-        title: 'Semantic Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.semanticscholar.org/author/102432395", "_blank");
         },
       },{
         id: 'social-github',
@@ -444,11 +444,11 @@ ninja.data = [{
           window.open("https://github.com/Togo-95", "_blank");
         },
       },{
-        id: 'social-orcid',
-        title: 'ORCID',
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-1531-0058", "_blank");
+          window.open("https://www.semanticscholar.org/author/102432395", "_blank");
         },
       },{
         id: 'social-dblp',
@@ -458,11 +458,11 @@ ninja.data = [{
           window.open("https://dblp.org/pid/276/7573.html", "_blank");
         },
       },{
-        id: 'social-lastfm',
-        title: 'Last FM',
+        id: 'social-ridewithgps',
+        title: 'Ridewithgps',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.last.fm/user/togo95", "_blank");
+          window.open("https://ridewithgps.com/users/62162/", "_blank");
         },
       },{
         id: 'social-strava',
@@ -472,11 +472,18 @@ ninja.data = [{
           window.open("https://www.strava.com/athletes/189381", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-sonemic',
+        title: 'Sonemic',
         section: 'Socials',
         handler: () => {
           window.open("https://rateyourmusic.com/~Togo", "_blank");
+        },
+      },{
+        id: 'social-lastfm',
+        title: 'Last FM',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.last.fm/user/togo95", "_blank");
         },
       },{
       id: 'light-theme',
