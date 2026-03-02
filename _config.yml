@@ -7,7 +7,7 @@ first_name: "Tomáš"
 middle_name: 
 last_name: "Gonda"
 contact_note: >
-  Email: gondatomas at gmail dot com.
+  Email me at: gondatomas at gmail dot com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Tomáš Gonda - researcher in applied category theory and foundations of physics. 
   Here you can find my research interests and activities, CV, list of publications, and contact information.
@@ -15,7 +15,7 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos by Tomáš Gonda.
-keywords: applied category theory, quantum foundations, categorical probability, Innsbruck, portfolio website, research, mathematics, physics # add your own keywords or leave empty
+keywords: applied category theory, quantum foundations, categorical probability, Innsbruck, portfolio website, research, mathematics, physics, University of Innsbruck, Markov category # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: "TG_logo.png" # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -85,7 +85,7 @@ pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification: Ir3qnJvygzpbaWt6R3baAQpsB_U75B7TGZxq # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
