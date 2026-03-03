@@ -1,13 +1,17 @@
 ---
 layout: page
-title: submenus
+title: personal
 nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: trips
+    permalink: /trips/
+  - title: divider
   - title: bookshelf
     permalink: /books/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: projects
+    permalink: /non_academic_projects/
 ---
+
