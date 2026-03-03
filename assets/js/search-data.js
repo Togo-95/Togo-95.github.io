@@ -486,6 +486,13 @@ ninja.data = [{
           window.open("https://www.last.fm/user/togo95", "_blank");
         },
       },{
+        id: 'social-steepster',
+        title: 'Steepster',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://steepster.com/Togo", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
