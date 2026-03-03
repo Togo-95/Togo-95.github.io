@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <i>Applied Category Theorist</i> — post-doctoral researcher in the <a href='https://www.uibk.ac.at/mathematik/algebra/'>Algebra Group</a> at the <a href='https://www.uibk.ac.at/en/'>University of Innsbruck</a>.
 
 profile:
   align: right
@@ -10,7 +10,8 @@ profile:
   max_width: "400px"
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office 2N12,</p>
+    Email: tomas.gonda[at]uibk[dot]ac[dot]at<br>
+    <p>Office: 2N12 @ ICT Building </p><br>
     <p>Technikerstraße 21a,</p>
     <p>Innsbruck, 6020 Austria</p>
 
@@ -28,8 +29,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research tackles fundamental questions in epistemology — about how one can acquire and represent knowledge about the world — with a particular focus on modelling uncertainty.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+These interests have led me to study:
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- [Markov categories](https://ncatlab.org/nlab/show/Markov+category) — a recent categorical approach to probability
+- epistemic horizons — limitations on what embedded observers can learn
+- resource theories — which help us understand information as a resource
+- quantum foundations and quantum information theory more broadly
+
+I have completed my PhD at the [Perimeter Institute](https://perimeterinstitute.ca/), supervised by [R.W. Spekkens](https://www.rwspekkens.com/).
+Since then, I have also had the pleasure to collaborate with [T. Fritz](http://tobiasfritz.science/), [P. Perrone](http://www.paoloperrone.org/), [J. Fankhauser](https://www.johannesfankhauser.com/), [G. De les Coves](https://www.gemmadelescoves.com/), and others (see [publications](/publications/)).

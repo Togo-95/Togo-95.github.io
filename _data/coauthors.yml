@@ -57,3 +57,23 @@
 "lorenzin":
   - firstname: ["Antonio", "A."]
     url: https://sites.google.com/view/antonio-lorenzin
+
+"delescoves":
+  - firstname: ["Gemma", "G."]
+    url: https://www.gemmadelescoves.com/
+
+"coves":
+  - firstname: ["Gemma De les", "G.", "Gemma D. L.", "Gemma De L.", "Gemma"]
+    url: https://www.gemmadelescoves.com/
+
+"delascuevas":
+  - firstname: ["Gemma", "G."]
+    url: https://www.gemmadelescoves.com/
+
+"cuevas":
+  - firstname: ["Gemma De las", "G.", "Gemma D. L.", "Gemma De L.", "Gemma"]
+    url: https://www.gemmadelescoves.com/
+
+"fankhauser":
+  - firstname: ["Johannes", "J."]
+    url: https://www.johannesfankhauser.com/

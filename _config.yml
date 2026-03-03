@@ -7,7 +7,7 @@ first_name: "Tomáš"
 middle_name: 
 last_name: "Gonda"
 contact_note: >
-  Email me at: gondatomas at gmail dot com.
+  You can also email me at gondatomas at gmail dot com.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Tomáš Gonda - researcher in applied category theory and foundations of physics. 
   Here you can find my research interests and activities, CV, list of publications, and contact information.
