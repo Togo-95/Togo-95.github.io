@@ -13,13 +13,17 @@ dblp_url: https://dblp.org/pid/276/7573.html # your DBLP profile URL
 # rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international
-ridewithgps: # can be any name here other than the ones already defined in the jekyll-socials plugin
+ridewithgps: # 
   logo: /assets/img/RWGPS.png # can be png, svg, jpg
   title: RideWithGPS
   url: https://ridewithgps.com/users/62162/
 strava_userid: 189381 # your Strava athlete ID (format: 12345678) format.)
-sonemic: # can be any name here other than the ones already defined in the jekyll-socials plugin
+sonemic: # 
   logo: /assets/img/sonemic.png # can be png, svg, jpg
   title: Sonemic
   url: https://rateyourmusic.com/~Togo
 lastfm_id: togo95 # your Last.fm username
+steepster: 
+  logo: /assets/img/steepster_logo.png # can be png, svg, jpg
+  title: Steepster
+  url: https://steepster.com/Togo

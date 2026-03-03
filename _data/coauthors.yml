@@ -45,3 +45,15 @@
 "catani":
   - firstname: ["Lorenzo", "L."]
     url: https://scholar.google.ca/citations?user=C3O5nMEAAAAJ&hl=en
+
+"ying":
+  - firstname: ["Yìlè", "Y.", "Yile"]
+    url: https://scholar.google.ca/citations?user=9i95mmsAAAAJ&hl=en
+
+"rischel":
+  - firstname: ["Eigil", "E. F.", "Eigil F."]
+    url: https://www.erischel.com/index/index.xml
+
+"lorenzin":
+  - firstname: ["Antonio", "A."]
+    url: https://sites.google.com/view/antonio-lorenzin
