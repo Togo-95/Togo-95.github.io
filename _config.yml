@@ -26,6 +26,24 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
+# Excluding components from the build
+# -----------------------------------------------------------------------------
+
+exclude:
+  - _pages\dropdown.md # exclude the dropdown menu with trips, bookshelf and personal projects
+  - _pages\books.md # exclude the bookshelf page listing books 
+  - _books # exclude the entire collection of books 
+  - _pages\teaching.md # exclude the teaching page 
+  - _teachings # exclude the entire collection of teachings 
+  - _pages\blog.md # exclude the blog page 
+  - _posts # exclude the entire collection of blog posts
+  - _pages\projects.md # exclude the projects page
+  - _projects # exclude the entire collection of projects
+  - _pages\repositories.md # exclude repositories page from the build
+  - _pages\profiles.md # exclude the people page
+  - _news\announcement_2.md # exclude this example news item from the build 
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
@@ -281,7 +299,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Gonda]
-  first_name: [Tomáš]
+  first_name: ["Tomáš", "Tomas"]
 
   style: apa
   locale: en
