@@ -26,22 +26,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 # -----------------------------------------------------------------------------
-# Excluding components from the build
-# -----------------------------------------------------------------------------
-
-exclude:
-  - _pages/dropdown.md # exclude the dropdown menu with trips, bookshelf and personal projects
-  - _pages/books.md # exclude the bookshelf page listing books 
-  - _books/ # exclude the entire collection of books 
-  - _pages/teaching.md # exclude the teaching page 
-  - _teachings/ # exclude the entire collection of teachings 
-  - _pages/blog.md # exclude the blog page 
-  - _posts/ # exclude the entire collection of blog posts
-  - _pages/projects.md # exclude the projects page
-  - _projects/ # exclude the entire collection of projects
-  - _pages/repositories.md # exclude repositories page from the build
-  - _pages/profiles.md # exclude the people page
-  - _news/announcement_2.md # exclude this example news item from the build 
+# Note: Items are excluded in the "Includes & excludes" section below 
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -204,6 +189,19 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  - _pages/dropdown.md # removes the dropdown menu from the navbar, including trips, bookshelf, and projects pages.
+  - _pages/books.md # removes the books page
+  - _books/ 
+  - _pages/teaching.md # removes the teaching page
+  - _teachings/
+  - _pages/blog.md # removes the blog page and the link to the blog from the navbar
+  - _posts/
+  - _pages/projects.md # removes the projects page and the link to the projects from the navbar
+  - _projects/
+  - _pages/repositories.md # removes the repositories page and the link to the repositories from the navbar
+  - _pages/profiles.md # removes the people page and the link to the profiles from the navbar
+  - _pages/about_einstein.md # excludes the example bio for the people page
+  - _news/announcement_2.md # removes the example news announcement
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
@@ -218,7 +216,6 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
