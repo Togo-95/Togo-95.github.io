@@ -1,7 +1,63 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-03-04'
 papers:
-  qc6CJjYAAAAJ:-GalPxRzH2oC:
+  HWE8eckAAAAJ:0EnyYjriUFMC:
+    citations: 1
+    title: Conceptual and formal groundwork for the study of resource dependence relations
+    year: '2025'
+  HWE8eckAAAAJ:2osOgNQ5qMEC:
+    citations: 76
+    title: Representable Markov categories and comparison of statistical experiments in categorical probability
+    year: '2023'
+  HWE8eckAAAAJ:3fE2CSJIrl8C:
     citations: 0
-    title: 'The Palestine Troubles: Einstein''s Protest, Zionism''s Basis and Achievement; the Mandatory''s Task'
-    year: '1929'
+    title: MSC
+    year: '2024'
+  HWE8eckAAAAJ:8k81kl-MbHgC:
+    citations: 6
+    title: Empirical measures and strong laws of large numbers in categorical probability
+    year: '2025'
+  HWE8eckAAAAJ:LkGwnXOMwfcC:
+    citations: 39
+    title: Monotones in general resource theories
+    year: '2023'
+  HWE8eckAAAAJ:MXK_kJrjxJIC:
+    citations: 5
+    title: "The Aldous\u2013Hoover theorem in categorical probability"
+    year: '2025'
+  HWE8eckAAAAJ:Se3iqnhoufwC:
+    citations: 9
+    title: 'Epistemic horizons from deterministic laws: lessons from a nomic toy theory'
+    year: '2025'
+  HWE8eckAAAAJ:UeHWp8X0CEIC:
+    citations: 7
+    title: Resource theories as quantale modules
+    year: '2021'
+  HWE8eckAAAAJ:W7OEmFMy1HYC:
+    citations: 15
+    title: Absolute continuity, supports and idempotent splitting in categorical probability
+    year: '2023'
+  HWE8eckAAAAJ:Y0pCki6q_DkC:
+    citations: 8
+    title: A framework for universality in physics, computer science, and beyond
+    year: '2024'
+  HWE8eckAAAAJ:_FxGoFyzp5QC:
+    citations: 4
+    title: Resource-theoretic hierarchy of contextuality for general probabilistic theories
+    year: '2024'
+  HWE8eckAAAAJ:qjMakFHDy7sC:
+    citations: 71
+    title: De Finetti's Theorem in Categorical Probability
+    year: '2021'
+  HWE8eckAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: An Invitation to Universality in Physics, Computer Science, and Beyond
+    year: '2024'
+  HWE8eckAAAAJ:u5HHmVD_uO8C:
+    citations: 32
+    title: Almost Quantum Correlations are Inconsistent with Specker's Principle
+    year: '2018'
+  HWE8eckAAAAJ:zYLM7Y9cAGgC:
+    citations: 28
+    title: Dilations and information flow axioms in categorical probability
+    year: '2023'
