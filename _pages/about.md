@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i>Applied Category Theorist</i> — post-doctoral researcher in the <a href='https://www.uibk.ac.at/mathematik/algebra/'>Algebra Group</a> at the <a href='https://www.uibk.ac.at/en/'>University of Innsbruck</a>.
 
@@ -34,9 +34,9 @@ My research tackles fundamental questions in epistemology — about how one can 
 These interests have led me to study:
 
 - [Markov categories](https://ncatlab.org/nlab/show/Markov+category) — a recent [categorical approach to probability](https://ncatlab.org/nlab/show/category-theoretic+approaches+to+probability+theory)
-- epistemic horizons — limitations on what embedded observers can learn
-- resource theories — which help us understand information as a resource
-- quantum foundations and quantum information theory more broadly
+- [epistemic horizons](https://doi.org/10.1007/s11229-024-04852-0) — limitations on what embedded observers can learn
+- [resource theories](https://arxiv.org/pdf/1409.5531) — which help us understand information as a resource
+- [quantum foundations](https://arxiv.org/pdf/1003.5008) and quantum information theory more broadly
 
 I have completed my PhD at the [Perimeter Institute](https://perimeterinstitute.ca/), supervised by [R. W. Spekkens](https://www.rwspekkens.com/).
 Since then, I have also had the pleasure to collaborate with [T. Fritz](http://tobiasfritz.science/), [P. Perrone](http://www.paoloperrone.org/), [J. Fankhauser](https://www.johannesfankhauser.com/), [G. De les Coves](https://www.gemmadelescoves.com/), and others (see [publications](/publications/)).
