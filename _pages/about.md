@@ -33,10 +33,10 @@ My research tackles fundamental questions in epistemology — about how one can 
 
 These interests have led me to study:
 
-- [Markov categories](https://ncatlab.org/nlab/show/Markov+category) — a recent categorical approach to probability
+- [Markov categories](https://ncatlab.org/nlab/show/Markov+category) — a recent [categorical approach to probability](https://ncatlab.org/nlab/show/category-theoretic+approaches+to+probability+theory)
 - epistemic horizons — limitations on what embedded observers can learn
 - resource theories — which help us understand information as a resource
 - quantum foundations and quantum information theory more broadly
 
-I have completed my PhD at the [Perimeter Institute](https://perimeterinstitute.ca/), supervised by [R.W. Spekkens](https://www.rwspekkens.com/).
+I have completed my PhD at the [Perimeter Institute](https://perimeterinstitute.ca/), supervised by [R. W. Spekkens](https://www.rwspekkens.com/).
 Since then, I have also had the pleasure to collaborate with [T. Fritz](http://tobiasfritz.science/), [P. Perrone](http://www.paoloperrone.org/), [J. Fankhauser](https://www.johannesfankhauser.com/), [G. De les Coves](https://www.gemmadelescoves.com/), and others (see [publications](/publications/)).

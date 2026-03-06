@@ -11,7 +11,7 @@
     url: https://dario-stein.de/
 
 "spekkens":
-  - firstname: ["Robert", "R.", "R. W.", "Robert W."]
+  - firstname: ["Robert", "R.", "R. W.", "Robert W.", "Robert W"]
     url: https://www.rwspekkens.com/
 
 "schmid":
@@ -35,11 +35,11 @@
     url: https://www.andreas-klingler.com/
 
 "mohammed":
-  - firstname: ["Areeb", "A. S.", "AS", "Areeb S."]
+  - firstname: ["Areeb Shah", "A. S.", "AS", "Areeb S.", "Areeb"]
     url: https://www.areebsm.in/
 
 "galley":
-  - firstname: ["Thomas", "T. D.", "T.", "Thomas D."]
+  - firstname: ["Thomas", "T. D.", "T.", "Thomas D.", "Thomas D"]
     url: https://sites.google.com/site/thomasdgalley/home
 
 "catani":
@@ -58,7 +58,7 @@
   - firstname: ["Antonio", "A."]
     url: https://sites.google.com/view/antonio-lorenzin
 
-"delescoves":
+"de les coves":
   - firstname: ["Gemma", "G."]
     url: https://www.gemmadelescoves.com/
 
@@ -66,7 +66,7 @@
   - firstname: ["Gemma De les", "G.", "Gemma D. L.", "Gemma De L.", "Gemma"]
     url: https://www.gemmadelescoves.com/
 
-"delascuevas":
+"de las cuevas":
   - firstname: ["Gemma", "G."]
     url: https://www.gemmadelescoves.com/
 
@@ -77,3 +77,19 @@
 "fankhauser":
   - firstname: ["Johannes", "J."]
     url: https://www.johannesfankhauser.com/
+
+"ying":
+  - firstname: ["Yìlè", "Y.", "Yile"]
+    url: https://scholar.google.ca/citations?user=9i95mmsAAAAJ&hl=en&oi=ao
+
+"stengele":
+  - firstname: ["Sebastian", "S."]
+    url: https://quriosity.telecom-paris.fr/author/sebastian-stengele/
+
+"houghton-larsen":
+  - firstname: ["Nicholas Gauguin", "N. G.", "Nicholas G.", "Nicholas"]
+    url: https://dk.linkedin.com/in/nicholas-gauguin-houghton-larsen-0301734b
+
+"rischel":
+  - firstname: ["Eigil", "E. F.", "Eigil F.", "Eigil Fjeldgren"]
+    url: https://www.erischel.com/
