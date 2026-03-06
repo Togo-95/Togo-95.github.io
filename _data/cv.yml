@@ -3,7 +3,7 @@ cv:
   label: Researcher in Applied Category Theory and Quantum Information Theory
   email: tomas.gonda@uibk.ac.at
   location: Innsbruck, Austria
-  image: "profile.jpg"
+  image: "assets/img/profile.jpg"
   summary: A Slovak-born mathematician and physicist, known for his work in quantum information theory and appliedcategory theory.
 
   # social_networks:
