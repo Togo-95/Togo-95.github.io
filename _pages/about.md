@@ -10,8 +10,8 @@ profile:
   max_width: "400px"
   image_circular: false # crops the image to make it circular
   more_info: >
-    Email: tomas.gonda[at]uibk[dot]ac[dot]at<br>
-    <p>Office: 2N12 @ ICT Building </p><br>
+    Email: tomas.gonda@uibk.ac.at<br>
+    <p>Office: 2N13 @ ICT Building </p><br>
     <p>Technikerstraße 21a,</p>
     <p>Innsbruck, 6020 Austria</p>
 
@@ -24,7 +24,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
