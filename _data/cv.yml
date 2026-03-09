@@ -4,7 +4,7 @@ cv:
   email: tomas.gonda@uibk.ac.at
   location: Innsbruck, Austria
   image: "assets/img/profile.jpg"
-  summary: A Slovak-born mathematician and physicist, known for his work in quantum information theory and appliedcategory theory.
+  summary: A mathematician and physicist, known for his work in quantum information theory and applied category theory.
 
   # social_networks:
   #   - network: X
@@ -14,12 +14,12 @@ cv:
   #   - network: LinkedIn
   #     username: example
 
-  # address:
+  address:
   #   street: 2712 Broadway St
-  #   city: San Francisco
+     city: Innsbruck
   #   region: California
-  #   postalCode: CA 94115
-  #   countryCode: US
+     postalCode: 6020
+     countryCode: AUT
 
   # sections:
   #   Education:
