@@ -1,7 +1,7 @@
 cv:
   name: Tomáš Gonda
   headline: Researcher in Applied Category Theory and Quantum Information Theory
-  label: Researcher in Applied Category Theory and Quantum Information Theory
+#   label: Researcher in Applied Category Theory and Quantum Information Theory
   email: tomas.gonda@uibk.ac.at
   location: Innsbruck, Austria
   photo: "../assets/img/profile.webp"
@@ -17,12 +17,12 @@ cv:
   #   - network: LinkedIn
   #     username: example
 
-  address:
-  #   street: Technikerstraße 21a
-     city: Innsbruck
-  #   region: California
-     postalCode: 6020
-     countryCode: AUT
+#   address:
+#   #   street: Technikerstraße 21a
+#      city: Innsbruck
+#   #   region: California
+#      postalCode: 6020
+#      countryCode: AUT
 
   sections:
     Education:
@@ -92,7 +92,7 @@ cv:
       - company: ETH Zürich
         position: Visiting researcher
         location: Zürich, Switzerland
-        date: "2019"
+        date: "Summer 2019"
         start_date: 2019-07-01
         end_date: 2019-08-01
         summary: Collaborating with researchers in the group of Renato Renner on topics in information theory.
@@ -107,7 +107,7 @@ cv:
       - company: University of Edinburgh
         position: Career development internship
         location: Edinburgh, Scotland
-        date: "2015"
+        date: "Summer 2015"
         start_date: 2015-06-01
         end_date: 2015-08-31
         summary: A summer project on modelling turbulence in Matlab.
