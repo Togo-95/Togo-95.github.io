@@ -1,9 +1,10 @@
 cv:
   name: Tomáš Gonda
-  label: Researcher in Applied Category Theory and Quantum Information Theory
+  headline: Researcher in Applied Category Theory and Quantum Information Theory
+#   label: Researcher in Applied Category Theory and Quantum Information Theory
   email: tomas.gonda@uibk.ac.at
   location: Innsbruck, Austria
-  image: "assets/img/profile.jpg"
+  photo: "../assets/img/profile.webp"
 #   summary: A mathematician and physicist, known for his work in quantum information theory and applied category theory.
 
   social_networks:
@@ -16,12 +17,12 @@ cv:
   #   - network: LinkedIn
   #     username: example
 
-  address:
-  #   street: Technikerstraße 21a
-     city: Innsbruck
-  #   region: California
-     postalCode: 6020
-     countryCode: AUT
+#   address:
+#   #   street: Technikerstraße 21a
+#      city: Innsbruck
+#   #   region: California
+#      postalCode: 6020
+#      countryCode: AUT
 
   sections:
     Education:
@@ -91,7 +92,7 @@ cv:
       - company: ETH Zürich
         position: Visiting researcher
         location: Zürich, Switzerland
-        date: "2019"
+        date: "2019-07-01"
         start_date: 2019-07-01
         end_date: 2019-08-01
         summary: Collaborating with researchers in the group of Renato Renner on topics in information theory.
@@ -120,19 +121,20 @@ cv:
       #   end_date: 2013
       #   summary: In-person tutoring of high school students.
       
-      # - company: Positive Futures Festival
-      #   position: Organizer
-      #   location: Innsbruck, Austria
-      #   start_date: 2024
-      #   end_date: present
-      #   summary: Co-organizing an annual two week long music festival with ~40 concerts and ~1000 attendees.
+    Volunteering:
+      - company: Positive Futures Festival
+        position: Organizer
+        location: Innsbruck, Austria
+        start_date: 2024
+        end_date: present
+        summary: Co-organizing an annual two week long music festival with ~40 concerts and ~1000 attendees.
         
-      # - company: "Touch&Play Cologne Festival"
-      #   position: Organizer
-      #   location: Germany
-      #   start_date: 2025
-      #   end_date: present
-      #   summary: Co-organizing and facilitating an annual week long retreat with ~100 attendees.
+      - company: "Touch&Play Cologne Festival"
+        position: Organizer
+        location: Germany
+        start_date: 2025
+        end_date: present
+        summary: Co-organizing and facilitating an annual week long retreat with ~100 attendees.
 
    #  Awards:
    #    - title: Nobel Prize in Physics

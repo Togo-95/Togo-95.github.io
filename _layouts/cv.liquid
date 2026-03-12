@@ -120,30 +120,43 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- RenderCV Sections - Merge Experience and Volunteer -->
-        {% comment %} First, combine Experience and Volunteer entries {% endcomment %}
+        <!-- RenderCV Sections - Separate Experience and Volunteering -->
+        {% comment %} First, extract Experience and Volunteer/Volunteering entries separately. Also allow either key name. {% endcomment %}
         {% assign empty_array = '' | split: ',' %}
         {% assign exp = cv.sections.Experience | default: empty_array %}
-        {% assign vol = cv.sections.Volunteer | default: empty_array %}
-        {% assign combined_experience = exp | concat: vol %}
-        {% if combined_experience.size > 0 %}
+        {% assign vol1 = cv.sections.Volunteer | default: empty_array %}
+        {% assign vol2 = cv.sections.Volunteering | default: empty_array %}
+        {% assign vol_entries = vol1 | concat: vol2 %}
+
+        {% if exp.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Experience</h3>
             <div>
-              {% assign entries = combined_experience %}
+              {% assign entries = exp %}
               {% include cv/experience.liquid %}
             </div>
           </div>
         {% endif %}
 
-        {% comment %} Now render all other sections except Experience and Volunteer {% endcomment %}
+        {% if vol_entries.size > 0 %}
+          <a class="anchor" id="volunteering"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Volunteering</h3>
+            <div>
+              {% assign entries = vol_entries %}
+              {% include cv/experience.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        {% comment %} Now render all other sections except Experience, Volunteer and Volunteering {% endcomment %}
         {% for section_pair in cv.sections %}
           {% assign section_title = section_pair[0] %}
           {% assign section_entries = section_pair[1] %}
 
-          {% comment %} Skip Experience and Volunteer as we've already processed them combined {% endcomment %}
-          {% if section_title == 'Experience' or section_title == 'Volunteer' %}
+          {% comment %} Skip keys handled above {% endcomment %}
+          {% if section_title == 'Experience' or section_title == 'Volunteer' or section_title == 'Volunteering' %}
             {% continue %}
           {% endif %}
 
@@ -260,17 +273,28 @@ layout: default
           </div>
         {% endif %}
 
-        <!-- JSONResume Sections - Merge work and volunteer into Experience -->
+        <!-- JSONResume Sections - Separate work and volunteer entries -->
         {% assign empty_array = '' | split: ',' %}
         {% assign work = site.data.resume.work | default: empty_array %}
         {% assign vol = site.data.resume.volunteer | default: empty_array %}
-        {% assign combined_experience = work | concat: vol %}
-        {% if combined_experience.size > 0 %}
+
+        {% if work.size > 0 %}
           <a class="anchor" id="experience"></a>
           <div class="card mt-3 p-3">
             <h3 class="card-title font-weight-medium">Experience</h3>
             <div>
-              {% assign entries = combined_experience %}
+              {% assign entries = work %}
+              {% include cv/experience.liquid %}
+            </div>
+          </div>
+        {% endif %}
+
+        {% if vol.size > 0 %}
+          <a class="anchor" id="volunteering"></a>
+          <div class="card mt-3 p-3">
+            <h3 class="card-title font-weight-medium">Volunteering</h3>
+            <div>
+              {% assign entries = vol %}
               {% include cv/experience.liquid %}
             </div>
           </div>
