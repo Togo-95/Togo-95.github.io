@@ -64,13 +64,14 @@ cv:
       - company: University of Innsbruck
         department: Department of Mathematics
         position: Senior postdoctoral researcher
+        url: https://www.fwf.ac.at/forschungsradar/10.55776/ESP3451824
         location: Innsbruck, Austria
         start_date: 2025-03-08
         end_date: present
         summary: Conducting independent research in the field of applied category theory and quantum information theory.
         highlights:
           - Algebra group, led by Tim Netzer
-          - Funded by my FWF ESPRIT Grant "Ergodic Theory in Categorical Probability"
+          - Funded by my FWF ESPRIT Grant "[Ergodic Theory in Categorical Probability](https://www.fwf.ac.at/forschungsradar/10.55776/ESP3451824)"
 
       - company: University of Innsbruck
         department: Institute for Theoretical Physics
