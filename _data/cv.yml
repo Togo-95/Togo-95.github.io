@@ -4,25 +4,39 @@ cv:
   email: tomas.gonda@uibk.ac.at
   location: Innsbruck, Austria
   image: "assets/img/profile.jpg"
-  summary: A mathematician and physicist, known for his work in quantum information theory and applied category theory.
+#   summary: A mathematician and physicist, known for his work in quantum information theory and applied category theory.
 
-  # social_networks:
-  #   - network: X
-  #     username: AlbertEinstein
+  social_networks:
+    - network: ORCID
+      username: 0000-0002-1531-0058
+    - network: Google Scholar
+      username: HWE8eckAAAAJ
   #   - network: GitHub
   #     username: example
   #   - network: LinkedIn
   #     username: example
 
   address:
-  #   street: 2712 Broadway St
+  #   street: Technikerstraße 21a
      city: Innsbruck
   #   region: California
      postalCode: 6020
      countryCode: AUT
 
-  # sections:
-  #   Education:
+  sections:
+    Education:
+      - institution: University of Waterloo
+        location: Waterloo, ON, Canada
+      #   url: https://www.uibk.ac.at/
+        area: Physics
+        studyType: PhD
+        start_date: 2018-01-01
+        end_date: 2023-12-31
+        score: ""
+        courses: "Quantum Information Theory, Applied Category Theory"
+        highlights:
+          - "PhD thesis on 'Categorical Quantum Mechanics and its Applications in Quantum Information Theory'."
+          - "Published several papers in top-tier journals and conferences in the field of quantum information theory and applied category theory."
   #     - institution: University of Zurich
   #       location: Zurich, Switzerland
   #       url: https://www.uzh.ch/
@@ -46,54 +60,85 @@ cv:
   #         - Description 1.
   #         - Description 2.
 
-  #   Experience:
-  #     - company: Institute for Advanced Study, Princeton University
-  #       position: Professor of Theoretical Physics
-  #       location: Princeton University, NJ
-  #       start_date: 1933
-  #       end_date: 1955
-  #       summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
-  #       highlights:
-  #         - Relativity
-  #         - Description 2.
+    Experience:
+      - company: University of Innsbruck
+        department: Department of Mathematics
+        position: Senior postdoctoral researcher
+        location: Innsbruck, Austria
+        start_date: 2025-03-08
+        end_date: present
+        summary: Conducting independent research in the field of applied category theory and quantum information theory.
+        highlights:
+          - Algebra group
+          - Funded by my FWF ESPRIT Grant "Ergodic Theory in Categorical Probability"
 
-  #     - company: California Institute of Technology
-  #       position: Visiting Professor
-  #       location: Pasadena, California, US
-  #       start_date: 1933
-  #       end_date: 1933
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
+      - company: University of Innsbruck
+        department: Institute for Theoretical Physics
+        position: Postdoctoral researcher
+        location: Innsbruck, Austria
+        start_date: 2022-01-01
+        end_date: 2025-02-28
+        summary: Conducting research in applied category theory and quantum information theory.
+        highlights:
+          - Mathematical quantum physics group, led by Gemma De Les Coves
 
-  #     - company: Kaiser Wilhelm Institute for Physics
-  #       position: Director
-  #       location: Berlin, Germany
-  #       start_date: 1917
-  #       end_date: 1933
+      - company: University of Waterloo
+        position: Teaching assistant
+        location: Waterloo, ON, Canada
+        date: 
+        start_date: 2017
+        end_date: 2021
+        summary: Conducting tutorials for graduate level courses in Quantum Theory and Statistical Physics.
+        
+      - company: ETH Zürich
+        position: Visiting researcher
+        location: Zürich, Switzerland
+        date: 'Summer 2019'
+        start_date:
+        end_date:
+        summary: Collaborating with researchers in the group of Renato Renner on topics in information theory.
 
-  #     - company: Karl-Ferdinand University
-  #       position: Professor of Theoretical Physics
-  #       location: Prague, Czechoslovakia
-  #       start_date: 1911
-  #       end_date: 1917
+      - company: InstaEDU
+        position: Online tutor
+        location: Remote
+        date: 
+        start_date: 2013
+        end_date: 2016
+        summary: Online tutoring of undergraduate students in science and engineering.
 
-  #     - company: University of Zurich
-  #       position: Associate Professor of Theoretical Physics
-  #       location: Zurich, Switzerland
-  #       start_date: 1909
-  #       end_date: 1911
+      - company: University of Edinburgh
+        position: Career development internship
+        location: Edinburgh, Scotland
+        date: 'Summer 2015'
+        start_date:
+        end_date:
+        summary: A summer project on modelling turbulence in Matlab.
+        highlights:
+          - "Topic: Transition to turbulence in plane Couette flow"
 
-  #   Volunteer:
-  #     - company: People's Climate March
-  #       position: Lead Organizer
-  #       location: Zurich, Switzerland
-  #       start_date: 2014-04-01
-  #       end_date: 2015-07-01
-  #       summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-  #       highlights:
-  #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-  #         - "Men of the year 2014 by Time magazine"
+      - company: 
+        position: Personal tutor
+        location: Bratislava, Slovakia
+        date: 
+        start_date: 2012
+        end_date: 2013
+        summary: In-person tutoring of high school students.
+
+    Volunteering (non-academic):
+      - name: Positive Futures Festival
+        location: Innsbruck, Austria
+        start_date: 2024
+        end_date: present
+        summary: Co-organizing an annual two week long music festival with ~40 concerts and ~1000 attendees.
+      #   highlights:
+      #     - 
+      - name: Touch&Play Cologne Festival
+        location: Germany
+        start_date: 2025
+        end_date: present
+        summary: Co-organizing and facilitating an annual week long retreat with ~100 attendees.
+      #   highlights:
+      #     - 
 
   #   Awards:
   #     - title: Nobel Prize in Physics
