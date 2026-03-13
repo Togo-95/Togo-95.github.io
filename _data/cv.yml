@@ -88,7 +88,7 @@ cv:
 
       - company: Applied Category Theory Adjoint School
         position: Supervisor / teaching assistant
-        location: ""
+        location: "Oxfork, UK"
         date: "June 2024"
         start_date: 2024-06-10
         end_date: 2024-06-14
@@ -98,10 +98,10 @@ cv:
 
       - company: University of Waterloo & University of Innsbruck
         position: Supervisor / project lead
-        location: ""
+        location: "varied"
         start_date: 2022
         end_date: present
-        summary: "Co-supervising Master's thesis projects of:"
+        summary: "Supervising Master's thesis projects of:"
         highlights: 
           - "Yìlè Yīng (MSc, 2022, co-supervised by RW Spekkens); *Asymmetry Trade-off Relations: A New Kind of Uncertainty Relations*"
           - "Stefan Kremminger (MSc, 2024); *Quantum Conditional Independence*"
@@ -125,7 +125,7 @@ cv:
 
       - company: InstaEDU
         position: Online tutor
-        location: Remote
+        location: remote
         start_date: 2013
         end_date: 2016
         summary: Online tutoring of undergraduate students in science and engineering.
@@ -148,6 +148,18 @@ cv:
         summary: In-person tutoring of high school students.
       
     Volunteering:
+      - company: Scientific Journals
+        position: Reviewer
+        location: remote
+        summary: "Reviewing manuscripts for:"
+        highlights:
+          - Philosophy of Science (1), 
+          - Quantum (3), 
+          - Compositionality (2), 
+          - Journal of Pure and Applied Algebra (1), 
+          - Journal of Mathematical Physics (1), 
+          - various conference submissions.
+
       - company: Positive Futures Festival
         position: Organizer
         location: Innsbruck, Austria
@@ -192,30 +204,19 @@ cv:
         awarder: University of Edinburgh, School of Mathematics
         summary: Awarded for distinguished performance for direct entrants into the Second year of the program.
 
-   #  Publications:
-   #    - title: Zur Elektrodynamik bewegter Körper
-   #      authors:
-   #        - Albert Einstein
-   #      publisher: Annalen der Physik
-   #      releaseDate: 1905-06-30
-   #      url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-   #      summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+    Selected Publications:
+      - title: Empirical measures and strong laws of large numbers in categorical probability
+        authors:
+          - Tobias Fritz 
+          - Tomas Gonda
+          - Lorenzin, Antonio
+          - Perrone, Paolo
+          - Mohammed, Areeb Shah
+        publisher: "preprint"
+        releaseDate: 2025
+        url: 
+        summary: 
 
-   #    - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-   #      authors:
-   #        - Albert Einstein
-   #      publisher: Annalen der Physik
-   #      releaseDate: 1905-03-18
-   #      url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-   #      summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
-
-   #    - title: Die Grundlage der allgemeinen Relativitätstheorie
-   #      authors:
-   #        - Albert Einstein
-   #      publisher: Annalen der Physik
-   #      releaseDate: 1916-03-20
-   #      url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-   #      summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
    #  Skills:
    #    - name: Physics
@@ -223,12 +224,18 @@ cv:
    #      icon: fa-solid fa-hashtag
    #      keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-   #  Languages:
-   #    - name: German
-   #      summary: "Native speaker"
+    Languages:
+      - name: Slovak
+        summary: "Native"
+      
+      - name: Czech
+        summary: "Fluent"
 
-   #    - name: English
-   #      summary: "Fluent"
+      - name: English
+        summary: "Fluent (C1/C2)"
+
+      - name: German
+        summary: "Fluent (B2)"
 
    #  Interests:
    #    - name: Physics
