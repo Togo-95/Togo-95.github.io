@@ -4,6 +4,7 @@ cv:
 #   label: Researcher in Applied Category Theory and Quantum Information Theory
   email: tomas.gonda@uibk.ac.at
   location: Innsbruck, Austria
+  website: https://tomasgonda.org/
   photo: "../assets/img/profile.webp"
 #   summary: A mathematician and physicist, known for his work in quantum information theory and applied category theory.
 
@@ -35,7 +36,7 @@ cv:
         end_date: 2021-11-02
       #   courses: "Quantum Information Theory, Applied Category Theory"
         highlights:
-          - "Thesis: Resource Theories as Quantale Modules"
+          - "Thesis: *Resource Theories as Quantale Modules*"
           - "Supervisor: Dr. Robert W. Spekkens"
           
       - institution: "Perimeter Institute & University of Waterloo"
@@ -47,7 +48,7 @@ cv:
         end_date: 2017-06-30
       #   courses: "Quantum Information Theory, Applied Category Theory"
         highlights:
-          - "Thesis: Resource Theoretic Approach to Causal Inference"
+          - "Thesis: *Resource Theoretic Approach to Causal Inference*"
           - "Supervisor: Dr. Robert W. Spekkens"
           
       - institution: "University of Edinburgh"
@@ -60,31 +61,8 @@ cv:
       #   courses: "Quantum Information Theory, Applied Category Theory"
         highlights:
           - "First class honours, 92% average grade"
-          - "Thesis: Symplectic Geometry"
+          - "Thesis: *Symplectic Geometry*"
           - "Supervisor: Dr. Johan Martens"
-
-  #     - institution: University of Zurich
-  #       location: Zurich, Switzerland
-  #       url: https://www.uzh.ch/
-  #       area: Physics
-  #       studyType: PhD
-  #       start_date: 1900
-  #       end_date: 1905
-  #       score: ""
-  #       courses: "Theory of Relativity"
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
-
-  #     - institution: Eidgenössische Technische Hochschule
-  #       location: Zurich, Switzerland
-  #       area: Physics
-  #       studyType: Federal teaching diploma
-  #       start_date: 1896
-  #       end_date: 1900
-  #       highlights:
-  #         - Description 1.
-  #         - Description 2.
 
     Experience:
       - company: University of Innsbruck
@@ -107,6 +85,26 @@ cv:
         summary: Conducting research in applied category theory and quantum information theory.
         highlights:
           - Mathematical quantum physics group, led by Gemma De Les Coves
+
+      - company: [Applied Category Theory Adjoint School](https://adjointschool.com/2024.html)
+        position: Supervisor / teaching assistant
+        location: ""
+        date: "June 2024"
+        start_date: 2024-06-10
+        end_date: 2024-06-14
+        summary: Co-leading a summer school research project with Paolo Perrone.
+        highlights: 
+          - "Topic: *Modelling Uncertainty with Markov Categories*"
+
+      - company: University of Waterloo & University of Innsbruck
+        position: Supervisor / project lead
+        location: ""
+        start_date: 2022
+        end_date: present
+        summary: "Co-supervising Master's thesis projects of:"
+        highlights: 
+          - "Yìlè Yīng (MSc, 2022, co-supervised by RW Spekkens); *Asymmetry Trade-off Relations: A New Kind of Uncertainty Relations*"
+          - "Stefan Kremminger (MSc, 2024); *Quantum Conditional Independence*"
 
       - company: University of Waterloo
         position: Teaching assistant
@@ -140,7 +138,7 @@ cv:
         end_date: 2015-08-31
         summary: A summer project on modelling turbulence in Matlab.
         highlights:
-          - "Topic: Transition to turbulence in plane Couette flow"
+          - "Topic: *Transition to turbulence in plane Couette flow*"
 
       - company: ""
         position: Personal tutor
