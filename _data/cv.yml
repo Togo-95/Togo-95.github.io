@@ -86,7 +86,7 @@ cv:
         highlights:
           - Mathematical quantum physics group, led by Gemma De Les Coves
 
-      - company: Applied Category Theory [Adjoint School](https://adjointschool.com/2024.html)
+      - company: Applied Category Theory Adjoint School
         position: Supervisor / teaching assistant
         location: ""
         date: "June 2024"
@@ -94,7 +94,7 @@ cv:
         end_date: 2024-06-14
         summary: Co-leading a summer school research project with Paolo Perrone.
         highlights: 
-          - "Topic: *Modelling Uncertainty with Markov Categories*"
+          - "Topic: [*Modelling Uncertainty with Markov Categories*](https://adjointschool.com/2024.html)"
 
       - company: University of Waterloo & University of Innsbruck
         position: Supervisor / project lead
