@@ -71,7 +71,7 @@ cv:
         location: Innsbruck, Austria
         start_date: 2025-03-08
         end_date: present
-        summary: Conducting independent research in the field of applied category theory and quantum information theory.
+        summary: Independent research in applied category theory and quantum information theory.
         highlights:
           - Algebra group, led by Tim Netzer
           - Funded by my FWF ESPRIT Grant [Ergodic Theory in Categorical Probability](https://www.fwf.ac.at/forschungsradar/10.55776/ESP3451824)
@@ -162,21 +162,35 @@ cv:
         end_date: present
         summary: Co-organizing and facilitating an annual week long retreat with ~100 attendees.
 
-   #  Awards:
-   #    - title: Nobel Prize in Physics
-   #      authors:
-   #        - "Royal Swedish Academy of Sciences"
-   #      date: 1921-11-01
-   #      awarder: Royal Swedish Academy of Sciences
-   #      url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-   #      summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+    Awards:
+      - title:  ESPRIT Grant Ergodic Theory in Categorical Probability
+        authors:
+          - "Austrian Science Fund"
+        date: 2025-03-08
+        awarder: FWF - Austrian Science Fund
+        url: https://www.fwf.ac.at/forschungsradar/10.55776/ESP3451824
+        summary: The ESPRIT Grant supports young independent researchers in Austria.
 
-   #    - title: Max Planck Medal
-   #      authors:
-   #        - "German Physical Society"
-   #      date: 2029
-   #      awarder: German Physical Society
-   #      summary: Awarded for outstanding scientific achievement
+      - title: Napier Medal and Gangadhar Balwant Gadgil Prize 
+        authors:
+          - "University of Edinburgh"
+        date: 2016
+        awarder: University of Edinburgh, School of Mathematics
+        summary: Awarded to the best student in the Year 4 of the Mathematics program at the University of Edinburgh.
+
+      - title: Nichol Foundation Scholarship  
+        authors:
+          - "University of Edinburgh"
+        date: 2015
+        awarder: University of Edinburgh, School of Physics and Astronomy
+        summary: Awarded to the best overall mark in the Year 3 of Physics degrees at the University of Edinburgh.
+
+      - title: Kelland Memorial Prize  
+        authors:
+          - "University of Edinburgh"
+        date: 2014
+        awarder: University of Edinburgh, School of Mathematics
+        summary: Awarded for distinguished performance for direct entrants into the Second year of the program.
 
    #  Publications:
    #    - title: Zur Elektrodynamik bewegter Körper

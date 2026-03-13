@@ -15,6 +15,13 @@ table.table-cv {
   }
 }
 
+.date-column {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 95%;
+}
+
 a.btncv {
   color: var(--global-text-color) !important;
   border: 1px solid var(--global-text-color) !important;
