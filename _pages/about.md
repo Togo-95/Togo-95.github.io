@@ -40,3 +40,5 @@ These interests have led me to study:
 
 I have completed my PhD at the [Perimeter Institute](https://perimeterinstitute.ca/), supervised by [R. W. Spekkens](https://www.rwspekkens.com/).
 Since then, I have also had the pleasure to collaborate with [T. Fritz](http://tobiasfritz.science/), [P. Perrone](http://www.paoloperrone.org/), [J. Fankhauser](https://www.johannesfankhauser.com/), [G. De les Coves](https://www.gemmadelescoves.com/), and others (see [publications](/publications/)).
+
+If you would like to visit our group in Innsbruck (and perhaps give a talk), please get in touch, I have funding available to cover such trips.
