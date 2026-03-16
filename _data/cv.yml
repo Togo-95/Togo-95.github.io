@@ -32,6 +32,7 @@ cv:
       #   url: https://www.uibk.ac.at/
         area: Physics, Quantum Information Theory
         studyType: PhD
+        degree: "PhD"
         start_date: 2017-09-01
         end_date: 2021-11-02
       #   courses: "Quantum Information Theory, Applied Category Theory"
@@ -44,6 +45,7 @@ cv:
       #   url: https://www.uibk.ac.at/
         area: Theoretical Physics
         studyType: MSc & PSI (Perimeter Scholars International)
+        degree: "MSc & PSI (Perimeter Scholars International)"
         start_date: 2016-08-01
         end_date: 2017-06-30
       #   courses: "Quantum Information Theory, Applied Category Theory"
@@ -56,6 +58,7 @@ cv:
       #   url: https://www.uibk.ac.at/
         area: Mathematics & Physics
         studyType: BSc
+        degree: "BSc"
         start_date: 2013-10-01
         end_date: 2016-05-31
       #   courses: "Quantum Information Theory, Applied Category Theory"
