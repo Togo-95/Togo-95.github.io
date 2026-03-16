@@ -12,8 +12,8 @@
         {% endcapture %}
 
         {% if pub_date != '' %}
-          <div class="col-xs-2 col-sm-2 col-md-2 text-center">
-            <table class="table-cv">
+          <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+            <table class="table-cv w-100">
               <tbody>
                 <tr>
                   <td>
@@ -22,6 +22,19 @@
                     </span>
                   </td>
                 </tr>
+              {% capture location %}
+                {% if entry.location %}{{ entry.location }}{% endif %}
+              {% endcapture %}
+              {% if location != '' %}
+                <tr>
+                  <td class="text-center">
+                    <p class="location text-center">
+                      <i class="fa-solid fa-location-dot iconlocation"></i>
+                      {{ location }}
+                    </p>
+                  </td>
+                </tr>
+              {% endif %}
               </tbody>
             </table>
           </div>
@@ -32,13 +45,6 @@
               </h6>
             {% elsif entry.title %}
               <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title }}</h6>
-            {% endif %}
-
-            {% if entry.location %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <i class="fa-solid fa-location-dot iconlocation"></i>
-                {{ entry.location }}
-              </h6>
             {% endif %}
 
             {% if entry.summary %}
@@ -53,13 +59,6 @@
               </h6>
             {% elsif entry.title %}
               <h6 class="title font-weight-bold ml-1 ml-md-4">{{ entry.title }}</h6>
-            {% endif %}
-
-            {% if entry.location %}
-              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
-                <i class="fa-solid fa-location-dot iconlocation"></i>
-                {{ entry.location }}
-              </h6>
             {% endif %}
 
             {% if entry.summary %}

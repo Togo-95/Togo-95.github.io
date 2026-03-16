@@ -45,7 +45,7 @@ cv:
       #   url: https://www.uibk.ac.at/
         area: Theoretical Physics
         studyType: MSc & PSI (Perimeter Scholars International)
-        degree: "MSc & PSI (Perimeter Scholars International)"
+        degree: "MSc"
         start_date: 2016-08-01
         end_date: 2017-06-30
       #   courses: "Quantum Information Theory, Applied Category Theory"
@@ -211,87 +211,87 @@ cv:
       - title: Empirical measures and strong laws of large numbers in categorical probability
         authors:
           - Tobias Fritz
-          - Tomáš Gonda
+          - "**Tomáš Gonda**"
           - Lorenzin, Antonio
           - Perrone, Paolo
           - Mohammed, Areeb Shah
-        publisher: "preprint arxiv:2503.21576"
-        releaseDate: 2025-03-27
+        journal: "preprint"
+        date: 2025-03-27
         url: https://arxiv.org/abs/2503.21576
         summary: We introduce axioms for empirical sampling morphisms, which are abstract notions of empirical measures within the framework of categorical probability. Using these, we prove abstract versions of the de Finetti theorem, the Glivenko–Cantelli theorem, and the strong law of large numbers, and show that classical results are recovered via the category of partial Markov kernels.
         
       - title: De Finetti's theorem in categorical probability
         authors:
           - Tobias Fritz
-          - Tomáš Gonda
+          - "**Tomáš Gonda**"
           - Perrone, Paolo
-        publisher: "Journal of Stochastic Analysis"
-        releaseDate: 2021-09-12
+        journal: "Journal of Stochastic Analysis"
+        date: 2021-09-12
         url: https://repository.lsu.edu/josa/vol2/iss4/6/
         summary: A novel proof of de Finetti's Theorem characterizing permutation-invariant probability measures of infinite sequences of variables. The proof is phrased in the language of Markov categories, which provide an abstract categorical framework for probability and information flow. The diagrammatic and modular nature of the arguments makes the proof intuitive and easy to follow. 
         
       - title: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
         authors:
           - Johannes Fankhauser 
-          - Tomáš Gonda
+          - "**Tomáš Gonda**"
           - Gemma De Les Coves
-        publisher: "Synthese"
-        releaseDate: 2025-03-26
+        journal: "Synthese"
+        date: 2025-03-26
         url: https://link.springer.com/article/10.1007/s11229-024-04852-0
         summary: A study of what embedded observers can learn about the rest of the world made up of classical particles. We show that, in spite of deterministic physical laws, they face an epistemic horizon — properties such as position and momentum cannot be known simultaneously.
         
       - title: A framework for universality in physics, computer science, and beyond
         authors:
-          - Tomáš Gonda
+          - "**Tomáš Gonda**"
           - Tobias Reinhart
           - Sebastian Stengele
           - Gemma De Les Coves
-        publisher: "Compositionality"
-        releaseDate: 2024-08-29
+        journal: "Compositionality"
+        date: 2024-08-29
         url: https://compositionality.episciences.org/14134
         summary: First steps towards an abstract theory of universality, generalizing universal Turing machines, universal spin systems, completeness for complexity classes,and much more.
         
       - title: Monotones in general resource theories
         authors:
-          - Tomáš Gonda
+          - "**Tomáš Gonda**"
           - Robert W. Spekkens
-        publisher: "Compositionality"
-        releaseDate: 2023-08-09
+        journal: "Compositionality"
+        date: 2023-08-09
         url: https://compositionality.episciences.org/13526
         summary: Resource theories offer an abstract framework for comparing resources for all kinds of tasks. We provide a general theory for quantifying the cost and yield of a resource, generalizing a plethora of known constructions.
 
-    # Selected Presentations:
-    #   - title: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
-    #     authors:
-    #       - Johannes Fankhauser 
-    #       - "***Tomáš Gonda***"
-    #       - Gemma De Les Coves
-    #     event: "OASIS (The Oxford Advanced Seminar on Informatic Structures) 2024"
-    #     location: Oxford, UK
-    #     date: 2024
-    #     url: https://www.cs.ox.ac.uk/seminars/2650.html
+    Selected Presentations:
+      - title: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
+        authors:
+          - Johannes Fankhauser
+          - "**Tomáš Gonda**"
+          - Gemma De Les Coves
+        journal: "OASIS (The Oxford Advanced Seminar on Informatic Structures) 2024"
+        location: Oxford, UK
+        date: "2024"
+        url: https://www.cs.ox.ac.uk/seminars/2650.html
         
-    #   - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
-    #     authors:
-    #       - "***Tomáš Gonda***"
-    #       - Tobias Reinhart
-    #       - Sebastian Stengele
-    #       - Gemma De Les Coves
-    #     event: "Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)"
-    #     location: Bergen, Norway
-    #     date: 2023
-    #     url: http://www.catmi.no/
+      - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
+        authors:
+          - "**Tomáš Gonda**"
+          - Tobias Reinhart
+          - Sebastian Stengele
+          - Gemma De Les Coves
+        event: "Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)"
+        location: Bergen, Norway
+        date: "2023"
+        url: http://www.catmi.no/
         
-    #   - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
-    #     authors:
-    #       - "***Tomáš Gonda***"
-    #       - Tobias Reinhart
-    #       - Sebastian Stengele
-    #       - Gemma De Les Coves
-    #     event: "NYC category theory seminar"
-    #     location: remote
-    #     date: 2023
-    #     url: https://www.youtube.com/watch?v=8_ZX2vpqBZU
+      - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
+        authors:
+          - "**Tomáš Gonda**"
+          - Tobias Reinhart
+          - Sebastian Stengele
+          - Gemma De Les Coves
+        event: "NYC category theory seminar"
+        location: remote
+        date: "2023"
+        url: https://www.youtube.com/watch?v=8_ZX2vpqBZU
 
    #  Skills:
    #    - name: Physics
