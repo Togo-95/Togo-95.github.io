@@ -183,7 +183,7 @@ cv:
           - "Austrian Science Fund"
         date: 2025-03-08
         awarder: FWF - Austrian Science Fund
-        url: https://www.fwf.ac.at/forschungsradar/10.55776/ESP3451824
+        url: https://fwf.ac.at/forschungsradar/10.55776/ESP3451824
         summary: The ESPRIT Grant supports young independent researchers in Austria.
 
       - title: Napier Medal and Gangadhar Balwant Gadgil Prize 
@@ -278,10 +278,10 @@ cv:
       - name: "A framework for universality in physics, computer science, and beyond"
         summary: "NYC category theory seminar"
         location: remote
-        date: "2023"
+        date: "2023-09-27"
         highlights:
           - Invited talk
-          - "Youtube recording: https://www.youtube.com/watch?v=8_ZX2vpqBZU"
+          - "Youtube recording: [youtube.com/watch?v=8_ZX2vpqBZU](https://youtube.com/watch?v=8_ZX2vpqBZU)"
 
    #  Skills:
    #    - name: Physics
