@@ -156,11 +156,11 @@ cv:
         location: remote
         summary: "Reviewing manuscripts for:"
         highlights:
-          - Philosophy of Science (1), 
-          - Quantum (3), 
-          - Compositionality (2), 
-          - Journal of Pure and Applied Algebra (1), 
-          - Journal of Mathematical Physics (1), 
+          - Philosophy of Science (1)
+          - Quantum (3)
+          - Compositionality (2)
+          - Journal of Pure and Applied Algebra (1)
+          - Journal of Mathematical Physics (1)
           - various conference submissions.
 
       - company: Positive Futures Festival
@@ -216,7 +216,7 @@ cv:
           - Perrone, Paolo
           - Mohammed, Areeb Shah
         publisher: "preprint arxiv:2503.21576"
-        releaseDate: 2025
+        releaseDate: 2025-03-27
         url: https://arxiv.org/abs/2503.21576
         summary: We introduce axioms for empirical sampling morphisms, which are abstract notions of empirical measures within the framework of categorical probability. Using these, we prove abstract versions of the de Finetti theorem, the Glivenko–Cantelli theorem, and the strong law of large numbers, and show that classical results are recovered via the category of partial Markov kernels.
         
@@ -226,7 +226,7 @@ cv:
           - Tomáš Gonda
           - Perrone, Paolo
         publisher: "Journal of Stochastic Analysis"
-        releaseDate: 2021
+        releaseDate: 2021-09-12
         url: https://repository.lsu.edu/josa/vol2/iss4/6/
         summary: A novel proof of de Finetti's Theorem characterizing permutation-invariant probability measures of infinite sequences of variables. The proof is phrased in the language of Markov categories, which provide an abstract categorical framework for probability and information flow. The diagrammatic and modular nature of the arguments makes the proof intuitive and easy to follow. 
         
@@ -236,7 +236,7 @@ cv:
           - Tomáš Gonda
           - Gemma De Les Coves
         publisher: "Synthese"
-        releaseDate: 2025
+        releaseDate: 2025-03-26
         url: https://link.springer.com/article/10.1007/s11229-024-04852-0
         summary: A study of what embedded observers can learn about the rest of the world made up of classical particles. We show that, in spite of deterministic physical laws, they face an epistemic horizon — properties such as position and momentum cannot be known simultaneously.
         
@@ -247,7 +247,7 @@ cv:
           - Sebastian Stengele
           - Gemma De Les Coves
         publisher: "Compositionality"
-        releaseDate: 2024
+        releaseDate: 2024-08-29
         url: https://compositionality.episciences.org/14134
         summary: First steps towards an abstract theory of universality, generalizing universal Turing machines, universal spin systems, completeness for complexity classes,and much more.
         
@@ -256,7 +256,7 @@ cv:
           - Tomáš Gonda
           - Robert W. Spekkens
         publisher: "Compositionality"
-        releaseDate: 2023
+        releaseDate: 2023-08-09
         url: https://compositionality.episciences.org/13526
         summary: Resource theories offer an abstract framework for comparing resources for all kinds of tasks. We provide a general theory for quantifying the cost and yield of a resource, generalizing a plethora of known constructions.
 
@@ -281,6 +281,17 @@ cv:
     #     location: Bergen, Norway
     #     date: 2023
     #     url: http://www.catmi.no/
+        
+    #   - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
+    #     authors:
+    #       - "***Tomáš Gonda***"
+    #       - Tobias Reinhart
+    #       - Sebastian Stengele
+    #       - Gemma De Les Coves
+    #     event: "NYC category theory seminar"
+    #     location: remote
+    #     date: 2023
+    #     url: https://www.youtube.com/watch?v=8_ZX2vpqBZU
 
    #  Skills:
    #    - name: Physics
