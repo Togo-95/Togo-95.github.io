@@ -260,18 +260,27 @@ cv:
         url: https://compositionality.episciences.org/13526
         summary: Resource theories offer an abstract framework for comparing resources for all kinds of tasks. We provide a general theory for quantifying the cost and yield of a resource, generalizing a plethora of known constructions.
 
-    Selected Presentations:
-      - title: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
-        event: "OASIS (The Oxford Advanced Seminar on Informatic Structures) 2024"
-        location: Oxford, UK
-        date: 2024
-        url: https://www.cs.ox.ac.uk/seminars/2650.html
+    # Selected Presentations:
+    #   - title: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
+    #     authors:
+    #       - Johannes Fankhauser 
+    #       - "***Tomáš Gonda***"
+    #       - Gemma De Les Coves
+    #     event: "OASIS (The Oxford Advanced Seminar on Informatic Structures) 2024"
+    #     location: Oxford, UK
+    #     date: 2024
+    #     url: https://www.cs.ox.ac.uk/seminars/2650.html
         
-      - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
-        event: "Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)"
-        location: Bergen, Norway
-        date: 2023
-        url: http://www.catmi.no/
+    #   - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
+    #     authors:
+    #       - "***Tomáš Gonda***"
+    #       - Tobias Reinhart
+    #       - Sebastian Stengele
+    #       - Gemma De Les Coves
+    #     event: "Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)"
+    #     location: Bergen, Norway
+    #     date: 2023
+    #     url: http://www.catmi.no/
 
    #  Skills:
    #    - name: Physics
