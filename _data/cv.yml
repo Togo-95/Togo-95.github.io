@@ -74,7 +74,7 @@ cv:
         location: Innsbruck, Austria
         start_date: 2025-03-08
         end_date: present
-        summary: Independent research in applied category theory and quantum information theory.
+        summary: Independent research in applied category theory and quantum information.
         highlights:
           - Algebra group, led by Tim Netzer
           - Funded by my FWF ESPRIT Grant [Ergodic Theory in Categorical Probability](https://www.fwf.ac.at/forschungsradar/10.55776/ESP3451824)
@@ -261,37 +261,27 @@ cv:
         summary: Resource theories offer an abstract framework for comparing resources for all kinds of tasks. We provide a general theory for quantifying the cost and yield of a resource, generalizing a plethora of known constructions.
 
     Selected Presentations:
-      - title: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
-        authors:
-          - Johannes Fankhauser
-          - "**Tomáš Gonda**"
-          - Gemma De Les Coves
-        journal: "OASIS (The Oxford Advanced Seminar on Informatic Structures) 2024"
+      - name: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
+        summary: "[OASIS — The Oxford Advanced Seminar on Informatic Structures](https://www.cs.ox.ac.uk/seminars/2650.html)"
         location: Oxford, UK
-        date: "2024"
-        url: https://www.cs.ox.ac.uk/seminars/2650.html
+        date: "2024-06-13"
+        highlights: 
+          - Invited talk
         
-      - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
-        authors:
-          - "**Tomáš Gonda**"
-          - Tobias Reinhart
-          - Sebastian Stengele
-          - Gemma De Les Coves
-        event: "Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)"
+      - name: "A framework for universality in physics, computer science, and beyond"
+        summary: "[Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)](http://www.catmi.no/)"
         location: Bergen, Norway
-        date: "2023"
-        url: http://www.catmi.no/
+        date: "2023-06-29"
+        highlights: 
+          - Invited talk
         
-      - title: "A Framework for Universality in Physics, Computer Science, and Beyond"
-        authors:
-          - "**Tomáš Gonda**"
-          - Tobias Reinhart
-          - Sebastian Stengele
-          - Gemma De Les Coves
-        event: "NYC category theory seminar"
+      - name: "A framework for universality in physics, computer science, and beyond"
+        summary: "NYC category theory seminar"
         location: remote
         date: "2023"
-        url: https://www.youtube.com/watch?v=8_ZX2vpqBZU
+        highlights:
+          - Invited talk
+          - "Youtube recording: https://www.youtube.com/watch?v=8_ZX2vpqBZU"
 
    #  Skills:
    #    - name: Physics

@@ -9,7 +9,7 @@
   {% for entry in entries %}
     <li class="list-group-item">
       <div class="row">
-        <div class="col-xs-2 col-sm-2 col-md-2 text-center date-column">
+        <div class="col-xs-2 col-sm-2 col-md-2 text-center loc-date-column">
           {% comment %} allow explicit date field to override start/end pair {% endcomment %}
           {% capture explicit_date %}{% if entry.date %}{{ entry.date }}{% endif %}{% endcapture %}
           {% if explicit_date != '' %}
@@ -32,7 +32,7 @@
             {% endif %}
           {% endif %}
 
-          <table class="table-cv w-100">
+          <table class="table-cv">
             <tbody>
               <tr>
                 <td class="text-center">
