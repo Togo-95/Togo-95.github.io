@@ -37,7 +37,7 @@ cv:
         end_date: 2021-11-02
       #   courses: "Quantum Information Theory, Applied Category Theory"
         highlights:
-          - "Thesis: *Resource Theories as Quantale Modules*"
+          - "Thesis: *Resource theories as quantale modules*"
           - "Supervisor: Dr. Robert W. Spekkens"
           
       - institution: "Perimeter Institute & University of Waterloo"
@@ -50,7 +50,7 @@ cv:
         end_date: 2017-06-30
       #   courses: "Quantum Information Theory, Applied Category Theory"
         highlights:
-          - "Thesis: *Resource Theoretic Approach to Causal Inference*"
+          - "Thesis: *Resource theoretic approach to causal inference*"
           - "Supervisor: Dr. Robert W. Spekkens"
           
       - institution: "University of Edinburgh"
@@ -191,14 +191,14 @@ cv:
           - "University of Edinburgh"
         date: 2016
         awarder: University of Edinburgh, School of Mathematics
-        summary: Awarded to the best student in the Year 4 of the Mathematics program at the University of Edinburgh.
+        summary: Awarded to the best student in the Year 4 of the Mathematics program.
 
       - title: Nichol Foundation Scholarship  
         authors:
           - "University of Edinburgh"
         date: 2015
         awarder: University of Edinburgh, School of Physics and Astronomy
-        summary: Awarded to the best overall mark in the Year 3 of Physics degrees at the University of Edinburgh.
+        summary: Awarded to the best overall mark in the Year 3 of Physics degrees.
 
       - title: Kelland Memorial Prize  
         authors:
@@ -212,9 +212,9 @@ cv:
         authors:
           - Tobias Fritz
           - "**Tomáš Gonda**"
-          - Lorenzin, Antonio
-          - Perrone, Paolo
-          - Mohammed, Areeb Shah
+          - Antonio Lorenzin
+          - Paolo Perrone
+          - Areeb Shah Mohammed
         journal: "preprint"
         date: 2025-03-27
         url: https://arxiv.org/abs/2503.21576
@@ -224,7 +224,7 @@ cv:
         authors:
           - Tobias Fritz
           - "**Tomáš Gonda**"
-          - Perrone, Paolo
+          - Paolo Perrone
         journal: "Journal of Stochastic Analysis"
         date: 2021-09-12
         url: https://repository.lsu.edu/josa/vol2/iss4/6/
