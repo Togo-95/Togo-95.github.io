@@ -30,7 +30,7 @@ cv:
       - institution: "Perimeter Institute & University of Waterloo"
         location: Waterloo, ON, Canada
       #   url: https://www.uibk.ac.at/
-        area: Physics, Quantum Information Theory
+        area: Physics, Quantum Information
         studyType: PhD
         degree: "PhD"
         start_date: 2017-09-01
@@ -284,13 +284,6 @@ cv:
         summary: "[Quantum Physics and Logic (QPL) Conference](https://qpl2025.github.io/)"
         location: Varna, Bulgaria
         date: "2024-07-18"
-
-      - name: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
-        summary: "[OASIS — The Oxford Advanced Seminar on Informatic Structures](https://www.cs.ox.ac.uk/seminars/2650.html)"
-        location: Oxford, UK
-        date: "2024-06-13"
-        highlights: 
-          - Invited talk
 
       - name: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
         summary: "[OASIS — The Oxford Advanced Seminar on Informatic Structures](https://www.cs.ox.ac.uk/seminars/2650.html)"
