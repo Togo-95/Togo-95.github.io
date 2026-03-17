@@ -261,17 +261,41 @@ cv:
         summary: Resource theories offer an abstract framework for comparing resources for all kinds of tasks. We provide a general theory for quantifying the cost and yield of a resource, generalizing a plethora of known constructions.
 
     Selected Presentations:
+      - name: "Introduction to categorical probability"
+        summary: "[A 4-lecture mini-course at the Perimeter Institute](https://events.perimeterinstitute.ca/category/92/)"
+        location: Waterloo, ON, Canada
+        date: "2025-10-01"
+        highlights:
+          - "Online recordings: [pirsa.org/c25054](https://pirsa.org/c25054)"
+
+      - name: "Introduction to categorical probability"
+        summary: "[IQOQI Vienna Seminar](https://www.iqoqi-vienna.at/detail/event/introduction-to-categorical-probability)"
+        location: Vienna, Austria
+        date: "2025-09-19"
+        highlights:
+          - "Youtube recording: [youtube.com/watch?v=eVfFuIGEZxc](https://youtube.com/watch?v=eVfFuIGEZxc)"
+
+      # - name: "Empirical distributions and strong laws of large numbers in categorical probability"
+      #   summary: "University Carlos III of Madrid Seminar"
+      #   location: Madrid, Spain
+      #   date: "2025-01-24"
+      
+      - name: "Resource dependence relations and contextuality in asymmetry trade-offs"
+        summary: "[Quantum Physics and Logic (QPL) Conference](https://qpl2025.github.io/)"
+        location: Varna, Bulgaria
+        date: "2024-07-18"
+
       - name: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
         summary: "[OASIS — The Oxford Advanced Seminar on Informatic Structures](https://www.cs.ox.ac.uk/seminars/2650.html)"
         location: Oxford, UK
         date: "2024-06-13"
         highlights: 
           - Invited talk
-        
-      - name: "A framework for universality in physics, computer science, and beyond"
-        summary: "[Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)](http://www.catmi.no/)"
-        location: Bergen, Norway
-        date: "2023-06-29"
+
+      - name: "Epistemic horizons from deterministic laws: Lessons from a nomic toy theory"
+        summary: "[OASIS — The Oxford Advanced Seminar on Informatic Structures](https://www.cs.ox.ac.uk/seminars/2650.html)"
+        location: Oxford, UK
+        date: "2024-06-13"
         highlights: 
           - Invited talk
         
@@ -282,6 +306,82 @@ cv:
         highlights:
           - Invited talk
           - "Youtube recording: [youtube.com/watch?v=8_ZX2vpqBZU](https://youtube.com/watch?v=8_ZX2vpqBZU)"
+
+      - name: "Supports and idempotent splitting in Markov categories"
+        summary: "[Applied Category Theory Conference](https://act2023.github.io/)"
+        location: Maryland, USA
+        date: "2023-08-03"
+        highlights:
+          - "Youtube recording: [youtube.com/watch?v=3QJzfdZu8_g](https://youtube.com/watch?v=3QJzfdZu8_g)"
+        
+      - name: "A framework for universality in physics, computer science, and beyond"
+        summary: "[Category Theory at Work in Computational Mathematics and Theoretical Informatics (CATMI)](http://www.catmi.no/)"
+        location: Bergen, Norway
+        date: "2023-06-29"
+        highlights: 
+          - Invited talk
+
+      # - name: "Dilations and information flow axioms in categorical probability"
+      #   summary: "[Tenth Symposium on Compositional Structures (SYCO 10)](https://www.cl.cam.ac.uk/events/syco/10/)"
+      #   location: Edinburgh, UK
+      #   date: "2022-12-20"  
+
+      # - name: "A framework for universality across disciplines"
+      #   summary: "[Ninth Symposium on Compositional Structures (SYCO 9)](https://www.cl.cam.ac.uk/events/syco/9/)"
+      #   location: Como, Italy
+      #   date: "2022-09-08"  
+
+      # - name: "De Finetti's theorem in categorical probability"
+      #   summary: "[Logic of Probabilistic Programming Conference](https://conferences.cirm-math.fr/2686.html)"
+      #   location: Marseille, France
+      #   date: "2022-02-03" 
+
+      - name: "De Finetti's theorem in categorical probability"
+        summary: "[Applied Category Theory Conference](https://www.cl.cam.ac.uk/events/act2021/)"
+        location: Cambridge, UK
+        date: "2021-07-06"
+
+      - name: "Blackwell-Sherman-Stein Theorem in categorical probability"
+        summary: "Applied Category Theory Conference"
+        location: remote
+        date: "2020-07-07"
+        highlights:
+          - keynote presentation
+          - "Youtube recording: [youtube.com/watch?v=fgWUV-hE0CI](https://youtube.com/watch?v=fgWUV-hE0CI)"
+
+      # - name: "Monotones in general resource theories"
+      #   summary: "[Quantum Physics and Logic (QPL) Conference](https://qpl2019.org/)"
+      #   location: Orange, CA, USA
+      #   date: "2019-06-14"    
+
+      - name: "Almost quantum correlations are inconsistent with Specker's principle"
+        summary: "[Quantum Information Processing (QIP) Conference](https://qipconference.org/2019/index.html)"
+        location: Boulder, CO, USA
+        date: "2019-01-15"
+
+      - name: "Almost quantum correlations are inconsistent with Specker's principle"
+        summary: "[Q-Turn Conference](https://qipconference.org/2019/index.html)"
+        location: Florianopolis, Brazil
+        date: "2018-11-29"
+        highlights:
+          - "Youtube recording: [youtube.com/watch?v=u2XwLiktTI8](https://youtube.com/watch?v=u2XwLiktTI8)"
+
+      # - name: "Almost quantum correlations are inconsistent with Specker's principle"
+      #   summary: "[Quantum Physics and Logic (QPL) Conference](https://www.mathstat.dal.ca/qpl2018/)"
+      #   location: Halifax, Canada
+      #   date: "2018-06-05"
+
+      - name: "The ontological nature of causality"
+        summary: "[Rethinking Foundations of Physics Workshop](https://rethinking-workshop.org/research/workshops/rethinking_workshop_2018/)"
+        location: Cambridge, UK
+        date: "2018-07-08"
+        highlights:
+          - "Youtube recording: [youtube.com/watch?v=3QJzfdZu8_g](https://youtube.com/watch?v=3QJzfdZu8_g)"
+
+      - name: "Peculiarities of quantum theory"
+        summary: "[FKS Summer School](https://fmph.uniba.sk/detail-novinky/browse/189/back_to_page/kalendar-4/article/letna-skola-fyziky-317-1182017/)"
+        location: Bratislava, Slovakia
+        date: "2017-08-08"
 
    #  Skills:
    #    - name: Physics
