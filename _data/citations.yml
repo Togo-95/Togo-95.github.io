@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-04'
+  last_updated: '2026-03-18'
 papers:
   HWE8eckAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: Empirical measures and strong laws of large numbers in categorical probability
     year: '2025'
   HWE8eckAAAAJ:LkGwnXOMwfcC:
-    citations: 39
+    citations: 40
     title: Monotones in general resource theories
     year: '2023'
   HWE8eckAAAAJ:MXK_kJrjxJIC:
@@ -46,7 +46,7 @@ papers:
     title: Resource-theoretic hierarchy of contextuality for general probabilistic theories
     year: '2024'
   HWE8eckAAAAJ:qjMakFHDy7sC:
-    citations: 71
+    citations: 73
     title: De Finetti's Theorem in Categorical Probability
     year: '2021'
   HWE8eckAAAAJ:roLk4NBRz8UC:
@@ -54,7 +54,7 @@ papers:
     title: An Invitation to Universality in Physics, Computer Science, and Beyond
     year: '2024'
   HWE8eckAAAAJ:u5HHmVD_uO8C:
-    citations: 32
+    citations: 33
     title: Almost Quantum Correlations are Inconsistent with Specker's Principle
     year: '2018'
   HWE8eckAAAAJ:zYLM7Y9cAGgC:
