@@ -156,11 +156,12 @@ cv:
         location: remote
         summary: "Reviewing manuscripts for:"
         highlights:
-          - Philosophy of Science (1)
           - Quantum (3)
           - Compositionality (2)
           - Journal of Pure and Applied Algebra (1)
           - Journal of Mathematical Physics (1)
+          - Proceedings of the Royal Society A (1)
+          - Philosophy of Science (1)
           - various conference submissions.
 
       - company: Positive Futures Festival
