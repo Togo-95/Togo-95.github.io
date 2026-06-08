@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i>Applied Category Theorist</i> — post-doctoral researcher in the <a href='https://www.uibk.ac.at/mathematik/algebra/'>Algebra Group</a> at the <a href='https://www.uibk.ac.at/en/'>University of Innsbruck</a>.
+subtitle: <i>Applied Category Theorist</i> — post-doctoral researcher in the <a href='https://www.uibk.ac.at/de/mathematik/arbeitsgruppen/algebra/'>Algebra Group</a> at the <a href='https://www.uibk.ac.at/en/'>University of Innsbruck</a>.
 
 profile:
   align: right
