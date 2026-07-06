@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-06'
 papers:
   HWE8eckAAAAJ:0EnyYjriUFMC:
     citations: 1
     title: Conceptual and formal groundwork for the study of resource dependence relations
     year: '2025'
   HWE8eckAAAAJ:2osOgNQ5qMEC:
-    citations: 82
+    citations: 84
     title: Representable Markov categories and comparison of statistical experiments in categorical probability
     year: '2023'
   HWE8eckAAAAJ:3fE2CSJIrl8C:
@@ -34,7 +34,7 @@ papers:
     title: Resource theories as quantale modules
     year: '2021'
   HWE8eckAAAAJ:W7OEmFMy1HYC:
-    citations: 16
+    citations: 17
     title: Absolute continuity, supports and idempotent splitting in categorical probability
     year: '2023'
   HWE8eckAAAAJ:Y0pCki6q_DkC:
