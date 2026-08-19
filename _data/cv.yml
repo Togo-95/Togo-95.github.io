@@ -216,8 +216,8 @@ cv:
           - Antonio Lorenzin
           - Paolo Perrone
           - Areeb Shah Mohammed
-        journal: "preprint"
-        date: 2025-03-27
+        journal: "Logical Methods in Computer Science"
+        date: 2026-05-05
         url: https://arxiv.org/abs/2503.21576
         summary: We introduce axioms for empirical sampling morphisms, which are abstract notions of empirical measures within the framework of categorical probability. Using these, we prove abstract versions of the de Finetti theorem, the Glivenko–Cantelli theorem, and the strong law of large numbers, and show that classical results are recovered via the category of partial Markov kernels.
         
