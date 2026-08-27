@@ -31,6 +31,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/welcome/";
+            },},{id: "news-new-paper-on-epistemic-horizons",
+          title: 'New paper on epistemic horizons',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{
         id: 'social-cv',
         title: 'CV',
