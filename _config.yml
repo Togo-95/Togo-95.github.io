@@ -201,7 +201,6 @@ exclude:
   - _pages/repositories.md # removes the repositories page and the link to the repositories from the navbar
   - _pages/profiles.md # removes the people page and the link to the profiles from the navbar
   - _pages/about_einstein.md # excludes the example bio for the people page
-  - _news/announcement_2.md # removes the example news announcement
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New paper on epistemic horizons
-date: 2026-07-27
+date: 2026-08-27
 inline: false
 related_posts: false
 ---
