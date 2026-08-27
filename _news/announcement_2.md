@@ -6,9 +6,9 @@ inline: false
 related_posts: false
 ---
 
-I am excited to share that a new paper, titled *The View from Within: What Can Embedded Observers (Not) Learn?* has just been made public [on arXiv](https://arxiv.org/pdf/2608.25800).
+I am excited to share that a new paper, titled "The View from Within: What Can Embedded Observers (Not) Learn?", has just been made public [on arXiv](https://arxiv.org/pdf/2608.25800).
 
-In this work, Johannes Fankhauser, Gemma De les Coves, and myself follow up on our earlier manuscript on [*Epistemic horizons from deterministic laws: lessons from a nomic toy theory*](https://link.springer.com/article/10.1007/s11229-024-04852-0). We improve and extend the analysis of limitations on learning for embeded observers (i.e. of epistemic horizons) considerably.
+In this work, Johannes Fankhauser, Gemma De les Coves, and myself follow up on our [earlier manuscript](https://link.springer.com/article/10.1007/s11229-024-04852-0) titled "Epistemic horizons from deterministic laws: lessons from a nomic toy theory". We improve and extend the analysis of limitations on learning for embeded observers (i.e. of epistemic horizons) considerably.
 
 Similar to before, we model learning as an interaction between an observer (the subject) and another system (the object). Any correlation between them established by such a physical process can then amount to information learned by the subject about the object.
 
