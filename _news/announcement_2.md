@@ -40,7 +40,7 @@ There are three broad kinds of epistemic horizons we find. The epistemic horizon
 
 <img src="/assets/img/announcement_2/EH-pictures.png" 
      alt="Types of epistemic horizons"
-     style="width: 55%; display: block; margin: 2em auto;">
+     style="width: 50%; display: block; margin: 2em auto;">
 
 Our results can be summarised in the following three tables of epistemic horizons in nomic toy theory, each table corresponding to one type of learning.
 
