@@ -168,6 +168,8 @@ collections:
     output: false
   teachings:
     output: false
+  events:
+    output: false
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

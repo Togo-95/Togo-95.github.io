@@ -1,0 +1,42 @@
+<div class="events">
+  {% assign today = 'now' | date: '%Y-%m-%d' %}
+  {% assign events = site.events | sort: 'date' %}
+  {% assign shown = 0 %}
+
+  {% for event in events %}
+    {% if shown < include.limit %}
+      {% assign event_date = event.date | date: '%Y-%m-%d' %}
+
+      {% if event_date >= today %}
+        <div class="event-item">
+          <div class="event-date">
+            {% if event.end_date %}
+              <span class="event-day">
+                {{ event.date | date: "%d" }}–{{ event.end_date | date: "%d" }}
+              </span>
+            {% else %}
+              <span class="event-day">{{ event.date | date: "%d" }}</span>
+            {% endif %}
+            <span class="event-month">{{ event.date | date: "%b" }}</span>
+          </div>
+
+          <div class="event-details">
+            <div class="event-title">
+              {% if event.url %}
+                <a href="{{ event.url }}">{{ event.title }}</a>
+              {% else %}
+                {{ event.title }}
+              {% endif %}
+            </div>
+
+            {% if event.location %}
+              <div class="event-location">{{ event.location }}</div>
+            {% endif %}
+          </div>
+        </div>
+
+        {% assign shown = shown | plus: 1 %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>

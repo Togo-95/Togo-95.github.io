@@ -53,6 +53,14 @@ layout: default
       </h2>
       {% include news.liquid limit=true %}
     {% endif %}
+    
+    <!-- Events -->
+    {% if page.events and page.events.enabled %}
+      <h2>
+        Upcoming events
+      </h2>
+      {% include events.liquid limit=page.events.limit %}
+    {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
