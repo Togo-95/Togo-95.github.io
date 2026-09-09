@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-started-my-3-year-esprit-project-ergodic-theory-in-categorical-probability-funded-by-fwf",
+        },{id: "events-itaca-fest-2026",
+          title: 'Itaca Fest 2026',
+          description: "Online seminar on categorical probability.",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2026-11-17-ItaCa/";
+            },},{id: "news-i-started-my-3-year-esprit-project-ergodic-theory-in-categorical-probability-funded-by-fwf",
           title: 'I started my 3-year ESPRIT project, Ergodic Theory in Categorical Probability, funded by...',
           description: "",
           section: "News",},{id: "news-my-first-personal-website-is-launched",
