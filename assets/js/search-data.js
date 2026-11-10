@@ -28,6 +28,11 @@ ninja.data = [{
           description: "Online seminar on categorical probability.",
           section: "Events",handler: () => {
               window.location.href = "/events/2026-11-17-ItaCa/";
+            },},{id: "events-topos-institute-colloquium",
+          title: 'Topos Institute Colloquium',
+          description: "Ergodic Theory, categorically",
+          section: "Events",handler: () => {
+              window.location.href = "/events/2026-12-03-Topos_Colloquium/";
             },},{id: "news-i-started-my-3-year-esprit-project-ergodic-theory-in-categorical-probability-funded-by-fwf",
           title: 'I started my 3-year ESPRIT project, Ergodic Theory in Categorical Probability, funded by...',
           description: "",
