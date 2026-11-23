@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "events-itaca-fest-2026",
           title: 'Itaca Fest 2026',
-          description: "Online seminar on categorical probability.",
+          description: "Online seminar on categorical probability",
           section: "Events",handler: () => {
               window.location.href = "/events/2026-11-17-ItaCa/";
             },},{id: "events-topos-institute-colloquium",
